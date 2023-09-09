@@ -1,2 +1,2 @@
-# twitterscrape
-Scraping info from a twitter profiel
+# Reddit Scrape
+Scraping info from a subreddit
